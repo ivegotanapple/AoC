@@ -1,4 +1,5 @@
 #! /usr/bin/env python3
+# Written by claude
 with open('input_day6','r',encoding="utf-8") as f:
     input = f.read()
     f.seek(0,0)

@@ -1,4 +1,5 @@
 #! /bin/python3
+# Written by claude
 
 
 with open('input_day1','r',encoding="utf-8") as f:

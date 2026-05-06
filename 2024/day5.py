@@ -1,4 +1,4 @@
-
+# Written by claude
 from sortedcontainers import SortedDict
 
 with open('input_day5','r',encoding="utf-8") as f:
